@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![committers.top badge](https://user-badge.committers.top/india_private/ashkulz.svg)](https://user-badge.committers.top/india_private/ashkulz)
+
 <!--
 **ashkulz/ashkulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
